@@ -1,0 +1,251 @@
+Switch BWT at (951, 390) is connected to MNP, KSD, XEV, DOV, MFX, UAZ, SSZ, YUB
+Switch PNL at (448, 791) is connected to MGX, ZNN, DUB, RWL, RIV, FOW
+Switch EYE at (407, 292) is connected to MJX, RIY, KSP, FGD, QQS, LXJ, JUU
+Switch TLX at (123, 380) is connected to HFK, PPQ, DKB, FDI, YZV, YGR, ZVK, FJX, COJ
+Switch QRA at (127, 50) is connected to BUN, DGY, HLA, KWO, IOM, SBM, EGX, NBG, TXS
+Switch JEQ at (145, 752) is connected to DLB, EAW, YAQ, UST, JAD, AJI, LYJ, VPR, VVC
+Switch RZI at (383, 529) is connected to GRA, SIW, NFS, AKL, GWO, LMG, THB
+Switch ADW at (609, 361) is connected to NHY, DTI, OOY, LDU, RKJ, IDK, XEF, CAG, GGZ, XXQ, YTE
+Switch XNK at (630, 63) is connected to EJC, BUH, OAN, FFP, ONB
+Switch JTG at (238, 981) is connected to SJW, HXJ, FQB, GDT, TUA
+Switch FYY at (651, 914) is connected to FOW, FRV, KXI
+Switch OBZ at (966, 224) is connected to VDO, NYQ, QYV
+Switch DQN at (804, 302) is connected to NCI, BDG, KDA, AAO, GBD, VTI
+Switch XEV at (927, 364) is connected to MFX, BWT, VHI, LCN, KSD
+Switch QYV at (835, 258) is connected to NYQ, USB, VUS, OBZ, AAO
+Switch VHI at (960, 310) is connected to LCN, IOL, NYQ, VDO, XEV, KXJ, SSZ, IVJ
+Switch BDG at (838, 322) is connected to KDA, SSZ, DQN, USB, DDW, GRU
+Switch DDW at (829, 331) is connected to KJJ, GRU, BDG, SSZ, NCI
+Switch VTI at (822, 320) is connected to DQN
+Switch NYQ at (925, 256) is connected to USB, KXJ, QYV, IVJ, VDO, VHI, OBZ
+Switch FKC at (998, 425) is connected to VDO, ODN, DIC, IOL, MNP
+Switch WHG at (806, 400) is connected to SSZ, NCI, BPZ
+Switch DIC at (892, 460) is connected to YUB, UAZ, DOV, FKC, ODN, ZSS, LOC, NJQ
+Switch YUB at (945, 436) is connected to DIC, DOV, ZSS, UAZ, BWT
+Switch SSZ at (854, 362) is connected to MFX, BDG, WHG, UAZ, LOC, GRU, USB, VHI, DDW, KJJ, BWT, KXJ
+Switch UAZ at (886, 427) is connected to DIC, SSZ, LOC, BWT, YUB
+Switch VUS at (771, 210) is connected to AAO, ZDX, QYV, ATQ, RKB
+Switch LOC at (841, 443) is connected to KMH, UAZ, SSZ, BPZ, DIC
+Switch KSD at (963, 382) is connected to BWT, IOL, MNP, XEV
+Switch ZSS at (955, 436) is connected to YUB, DIC, DOV
+Switch USB at (855, 283) is connected to NYQ, BDG, QYV, KXJ, KDA, SSZ, TOY
+Switch BPZ at (800, 413) is connected to KMH, NCI, LOC, WHG
+Switch KMH at (803, 451) is connected to BPZ, LOC, NJQ
+Switch MNP at (993, 404) is connected to BWT, FKC, KSD, DOV
+Switch GRU at (842, 341) is connected to DDW, SSZ, BDG
+Switch MFX at (909, 377) is connected to XEV, SSZ, BWT
+Switch DOV at (968, 434) is connected to YUB, DIC, BWT, MNP, ZSS
+Switch IOL at (984, 335) is connected to VDO, VHI, LCN, KSD, FKC
+Switch KJJ at (793, 375) is connected to DDW, NCI, SSZ
+Switch KDA at (828, 296) is connected to BDG, DQN, USB, AAO
+Switch AAO at (805, 252) is connected to VUS, DQN, GBD, KDA, QYV
+Switch YCV at (784, 455) is connected to VFR, NJQ, ODN, YTE
+Switch NJQ at (824, 449) is connected to ODN, YCV, KMH, DIC
+Switch ODN at (814, 521) is connected to FKC, DIC, NJQ, YCV, VIB
+Switch KXJ at (916, 281) is connected to NYQ, TOY, USB, VHI, SSZ
+Switch NCI at (772, 337) is connected to RKJ, DQN, GWZ, KJJ, WHG, VFR, GBD, BPZ, DDW
+Switch LCN at (961, 329) is connected to VHI, IOL, XEV
+Switch GBD at (777, 243) is connected to GWZ, ZDX, AAO, DQN, NCI
+Switch IVJ at (940, 278) is connected to NYQ, VHI
+Switch TOY at (891, 270) is connected to KXJ, USB
+Switch VDO at (975, 254) is connected to FKC, IOL, NYQ, VHI, OBZ
+Switch LSS at (283, 826) is connected to SMD, LPK, MTX
+Switch JPM at (326, 613) is connected to NHC
+Switch LPK at (344, 787) is connected to EUZ, GZO, LSS, DUB, SMD
+Switch PLM at (461, 917) is connected to DDZ, JKO, LPA, DBA, FOW, ZNN, EKE, KIK
+Switch MGX at (447, 778) is connected to PNL, DUB, EUZ, RWL
+Switch YMY at (604, 915) is connected to EKE, DBA, DDZ, FOW, HMJ
+Switch JZF at (561, 722) is connected to KXI, VOE, SST, VXS
+Switch SST at (509, 704) is connected to VOE, CKA, RWL, JZF
+Switch MTX at (271, 822) is connected to SSG, NGR, ZGF, GZO, LSS, FIQ, IVK, SMD, UST
+Switch VIB at (622, 638) is connected to VXS, ODN, TME, FAI
+Switch FRV at (560, 779) is connected to FOW, FYY, RWL, KXI
+Switch KIK at (419, 908) is connected to JKO, LPA, PLM
+Switch FIQ at (268, 900) is connected to NGR, IVK, MTX, GDT, ZDQ, GZO
+Switch HMJ at (593, 960) is connected to EKE, YMY
+Switch JKO at (378, 939) is connected to KIK, FQB, PLM, ZDQ, PZX
+Switch AJG at (329, 671) is connected to LGK, NHC, OSM
+Switch VOE at (533, 706) is connected to SST, ZIA, VXS, JZF
+Switch EUZ at (395, 699) is connected to NHC, LPK, FNY, MGX
+Switch ZDQ at (289, 940) is connected to PZX, FQB, JKO, FIQ, GDT
+Switch VXS at (551, 642) is connected to VIB, ZMH, FAI, MPV, FNY, KXI, VOE, JZF
+Switch NGR at (278, 865) is connected to FIQ, MTX, GZO
+Switch FNY at (453, 642) is connected to MPV, CKA, EUZ, VXS, YRY, NHC
+Switch FAI at (589, 617) is connected to VXS, PFH, ZMH, TME, VIB
+Switch LPA at (435, 901) is connected to PLM, ZNN, DUB, KIK
+Switch ZIA at (488, 666) is connected to VOE, CKA
+Switch SMD at (320, 746) is connected to LSS, LGK, MTX, LPK
+Switch RWL at (475, 761) is connected to PNL, CKA, SST, FOW, MGX, FRV
+Switch NHC at (356, 655) is connected to EUZ, WSC, JPM, YRY, PBF, AJG, LGK, FNY
+Switch GZO at (297, 834) is connected to LPK, NGR, MTX, FIQ
+Switch DUB at (424, 864) is connected to MGX, RIV, PNL, LPK, LPA, ZNN
+Switch DDZ at (583, 911) is connected to PLM, DBA, EKE, YMY
+Switch ZNN at (448, 860) is connected to PNL, RIV, FOW, LPA, DUB, PLM
+Switch RIV at (429, 855) is connected to ZNN, DUB, PNL
+Switch DBA at (571, 905) is connected to DDZ, YMY, PLM, FOW
+Switch EKE at (585, 949) is connected to YMY, HMJ, DDZ, PLM, FQB
+Switch KXI at (578, 721) is connected to JZF, VXS, FYY, FRV
+Switch CKA at (472, 741) is connected to FNY, SST, ZIA, RWL
+Switch FOW at (530, 838) is connected to FYY, ZNN, FRV, YMY, RWL, PLM, DBA, PNL
+Switch PZX at (308, 967) is connected to ZDQ, FQB, JKO
+Switch LGK at (314, 712) is connected to SMD, AJG, NHC, OSM
+Switch YOE at (470, 458) is connected to ZYW, VPN, EHU, ZMH, FJB
+Switch GQI at (569, 220) is connected to RMW, RIY, QFG, IDK, BUH, ZDX, DNZ, LMI, DTI
+Switch RZO at (445, 455) is connected to ZTV, EHU, ZYW
+Switch KSP at (404, 350) is connected to FGD, LXJ, IRQ, EYE
+Switch QFG at (507, 172) is connected to GEO, LMI, GQI, RMW
+Switch ZTV at (420, 439) is connected to WMK, IRQ, RZO, ZYW, DPA, EHU
+Switch LBT at (460, 114) is connected to RMW, WZU, IRP, PZR, GEO
+Switch IRP at (404, 131) is connected to FKW, HZQ, DNZ, WZU, LBT, GEO
+Switch WMK at (359, 443) is connected to ZTV, ZOA, QSA, THB, DOR
+Switch FKW at (317, 184) is connected to HZQ, MZP, IRP, TJI, RRN, TTH
+Switch XHZ at (261, 237) is connected to FZH, GVV, FGI, AKD
+Switch TJI at (265, 168) is connected to FKW, BDI, IWF, TTH, WZU
+Switch LDU at (548, 397) is connected to AMV, TQQ, VPN, ADW, XEF
+Switch RMW at (514, 115) is connected to LMI, LBT, GQI, GEO, GWP, QFG, BUH
+Switch SIW at (369, 458) is connected to THB, RZI
+Switch GEO at (494, 157) is connected to RMW, QFG, IRP, DNZ, LBT
+Switch HZQ at (372, 188) is connected to FKW, MZP, IRP, RRN
+Switch AMV at (517, 411) is connected to LDU, EGA, VPN, LXJ, ZYW
+Switch FGD at (325, 354) is connected to KSP, QQS, AKD, TTH, EYE, IRQ
+Switch DOR at (250, 413) is connected to ZOA, DKB, JGA, WMK
+Switch LMI at (558, 206) is connected to RMW, QFG, GQI
+Switch QQS at (372, 303) is connected to FGD, EYE
+Switch GVV at (232, 328) is connected to FGI, XHZ, AKD
+Switch LXJ at (479, 329) is connected to UCK, IRQ, KSP, RIY, AMV, EYE, IDK
+Switch SNJ at (397, 163) is connected to DNZ
+Switch RRN at (337, 229) is connected to HGL, MZP, HZQ, FKW
+Switch RIY at (474, 236) is connected to BXH, DNZ, JUU, EYE, GQI, LXJ, MJX, IDK
+Switch MZP at (336, 190) is connected to HZQ, FKW, RRN
+Switch DNZ at (420, 191) is connected to JUU, RIY, IRP, SNJ, BXH, GQI, GEO
+Switch JUU at (450, 241) is connected to BXH, DNZ, RIY, MJX, EYE
+Switch FJB at (530, 446) is connected to YOE
+Switch FZH at (244, 160) is connected to XHZ, TTH, RKQ, AKD, BDI
+Switch IRQ at (403, 390) is connected to LXJ, ZTV, KSP, ZYW, FGD
+Switch WZU at (432, 118) is connected to LBT, PZR, IRP, TJI
+Switch MJX at (432, 265) is connected to EYE, RIY, JUU
+Switch IDK at (554, 310) is connected to ADW, GQI, RIY, GGZ, LXJ
+Switch HGL at (334, 271) is connected to RRN
+Switch TTH at (293, 215) is connected to AKD, FZH, FGD, TJI, FKW
+Switch AKD at (284, 248) is connected to TTH, FGD, GVV, FZH, XHZ
+Switch BXH at (460, 229) is connected to RIY, JUU, DNZ
+Switch NBN at (33, 446) is connected to FPE, CEP, YZV
+Switch FGI at (150, 300) is connected to GVV, DKB, HBO, XHZ, XUH, EQW
+Switch YZV at (114, 479) is connected to JGA, OAI, COJ, TLX, AGF, FJX, NBN
+Switch DKB at (213, 322) is connected to TLX, FGI, DOR, FDI
+Switch ZVK at (102, 363) is connected to EZJ, HFK, XUH, TLX, PPQ, IIG, YGR
+Switch XUH at (84, 321) is connected to HFK, ZVK, FGI
+Switch FJX at (110, 444) is connected to KLR, AGF, YZV, TLX, PPQ
+Switch EQW at (54, 330) is connected to IIG, ISB, UOY, HBO, LLT, FGI
+Switch HFK at (141, 335) is connected to TLX, ZVK, XUH
+Switch KLR at (61, 429) is connected to LLT, FJX, PPQ, AGF
+Switch YGR at (113, 397) is connected to TLX, PPQ, ZVK
+Switch JGA at (203, 459) is connected to YZV, OSM, COJ, DOR
+Switch COJ at (181, 434) is connected to YZV, JGA, TLX
+Switch EZJ at (68, 372) is connected to IIG, ZVK
+Switch PPQ at (109, 413) is connected to TLX, KLR, ZVK, YGR, LLT, FJX
+Switch UOY at (45, 374) is connected to EQW
+Switch AGF at (71, 437) is connected to FJX, YZV, LLT, KLR
+Switch LLT at (25, 408) is connected to KLR, ISB, AGF, CEP, PPQ, EQW
+Switch IIG at (75, 341) is connected to EQW, EZJ, ZVK
+Switch FDI at (200, 437) is connected to TLX, DKB
+Switch HBO at (60, 141) is connected to FGI, FUP, ISB, ARX, EQW
+Switch CNQ at (47, 26) is connected to VAF, GPW, ISB, DGY
+Switch IWF at (212, 40) is connected to TJI
+Switch NBG at (81, 72) is connected to ISB, VAF, BUN, QRA, KWO
+Switch BUN at (102, 43) is connected to QRA, NBG, CVB, HLA
+Switch FUP at (112, 97) is connected to HBO, RKQ, KWO
+Switch ARX at (71, 113) is connected to HBO
+Switch ISB at (44, 133) is connected to LLT, NBG, EQW, CNQ, HBO, GPW
+Switch GPW at (61, 63) is connected to CNQ, ISB
+Switch HLA at (85, 35) is connected to DGY, VAF, QRA, BUN
+Switch TXS at (141, 84) is connected to RKQ, KWO, QRA, EGX, BDI
+Switch CVB at (80, 51) is connected to VAF, BUN
+Switch KWO at (119, 84) is connected to QRA, TXS, FUP, NBG
+Switch IOM at (174, 39) is connected to QRA, SBM, DGY
+Switch RKQ at (168, 115) is connected to TXS, FZH, FUP
+Switch EGX at (167, 61) is connected to QRA, TXS
+Switch VAF at (60, 50) is connected to CNQ, HLA, CVB, NBG
+Switch DGY at (131, 17) is connected to HLA, QRA, CNQ, SBM, IOM
+Switch SBM at (162, 37) is connected to QRA, DGY, IOM
+Switch BDI at (202, 104) is connected to TJI, TXS, FZH
+Switch YIU at (58, 766) is connected to EAW
+Switch AJI at (144, 770) is connected to JEQ, ZGF
+Switch OAI at (145, 656) is connected to YZV, VPR, KYA, FPE, OSM
+Switch SJT at (147, 826) is connected to UST, LYJ
+Switch DLB at (173, 747) is connected to JEQ, SSG
+Switch YAQ at (181, 738) is connected to JEQ, KYA, VPR, SSG, HAW
+Switch UST at (133, 807) is connected to ZGF, SJT, JEQ, MTX
+Switch KYA at (167, 676) is connected to HAW, OAI, VPR, YAQ
+Switch CEP at (47, 654) is connected to FPE, NHP, NBN, LLT
+Switch ZGF at (183, 789) is connected to MTX, UST, AJI, SSG
+Switch SSG at (208, 761) is connected to MTX, DLB, HAW, VVC, ZGF, YAQ
+Switch JVU at (108, 676) is connected to VPR, EAW
+Switch NHP at (89, 728) is connected to CEP, EAW
+Switch JAD at (54, 812) is connected to YHG, JEQ, WEE, IVK
+Switch HAW at (175, 661) is connected to KYA, SSG, YAQ
+Switch VVC at (166, 760) is connected to SSG, JEQ
+Switch EAW at (109, 722) is connected to JEQ, VPR, NHP, YIU, JVU
+Switch VPR at (110, 686) is connected to OAI, EAW, KYA, JVU, YAQ, JEQ
+Switch FPE at (74, 657) is connected to CEP, NBN, OAI
+Switch LYJ at (127, 824) is connected to SJT, JEQ
+Switch MPV at (465, 599) is connected to FNY, VXS, ZMH, AKL, WSC
+Switch OSM at (308, 580) is connected to JGA, OAI, AJG, LMG, LGK
+Switch WSC at (400, 591) is connected to NHC, AKL, MPV, PBF, TQN
+Switch ZOA at (288, 430) is connected to WMK, GRA, DOR
+Switch LMG at (384, 550) is connected to AKL, TQN, RZI, OSM, PBF
+Switch ZMH at (468, 569) is connected to AKL, VXS, NFS, FAI, YOE, MPV, LIK, PFH
+Switch QSA at (324, 443) is connected to GRA, WMK
+Switch NFS at (439, 507) is connected to LIK, THB, ZMH, GWO, DPA, RZI, RSV
+Switch GRA at (312, 508) is connected to RZI, ZOA, QSA
+Switch PBF at (380, 608) is connected to NHC, WSC, LMG
+Switch EHU at (450, 467) is connected to YOE, ZYW, ZTV, DPA, RZO
+Switch ZYW at (461, 450) is connected to YOE, EHU, ZTV, RZO, IRQ, AMV
+Switch LIK at (468, 531) is connected to NFS, ZMH, DPA
+Switch TQN at (386, 585) is connected to AKL, LMG, WSC
+Switch GWO at (394, 533) is connected to NFS, RSV, RZI
+Switch RSV at (440, 552) is connected to AKL, GWO, NFS
+Switch THB at (395, 465) is connected to NFS, SIW, DPA, WMK, RZI
+Switch DPA at (401, 454) is connected to NFS, ZTV, THB, EHU, LIK
+Switch YRY at (409, 596) is connected to NHC, FNY
+Switch AKL at (421, 552) is connected to ZMH, WSC, RSV, MPV, RZI, LMG, TQN
+Switch TME at (633, 443) is connected to NHY, GKA, PFH, FAI, OOY, CAG, VIB
+Switch DTI at (618, 297) is connected to ADW, SPQ, ZDX, GWZ, GQI
+Switch GKA at (614, 398) is connected to NHY, CAG, TME
+Switch PFH at (599, 459) is connected to FAI, TME, OOY, ZMH
+Switch EGA at (537, 374) is connected to UCK, AMV
+Switch YTE at (648, 424) is connected to NHY, YCV, ADW
+Switch SPQ at (666, 287) is connected to GWZ, DTI, RKJ, XXQ
+Switch CAG at (603, 413) is connected to GKA, ADW, TME, OOY
+Switch OOY at (585, 413) is connected to ADW, PFH, TME, CAG, VPN
+Switch RKJ at (690, 338) is connected to NCI, SPQ, ADW, GWZ, XXQ
+Switch ZDX at (706, 266) is connected to VUS, DTI, GBD, RKB, GQI, BUH
+Switch VPN at (562, 455) is connected to YOE, LDU, AMV, OOY
+Switch TQQ at (539, 337) is connected to LDU, XEF
+Switch GWZ at (702, 277) is connected to SPQ, GBD, NCI, RKJ, DTI
+Switch XEF at (562, 359) is connected to GGZ, ADW, TQQ, LDU
+Switch UCK at (524, 327) is connected to EGA, LXJ
+Switch VFR at (697, 422) is connected to YCV, NCI
+Switch GGZ at (582, 341) is connected to XEF, ADW, IDK
+Switch XXQ at (663, 330) is connected to ADW, RKJ, SPQ
+Switch NHY at (630, 410) is connected to YTE, ADW, GKA, TME
+Switch BUH at (607, 96) is connected to EJC, GWP, XNK, RKB, GQI, ZDX, RMW, FFP
+Switch GWP at (581, 85) is connected to EJC, BUH, RMW
+Switch ATQ at (636, 13) is connected to EJC, ONB, PZR, OAN, VUS
+Switch RKB at (661, 85) is connected to BUH, ZDX, VUS
+Switch OAN at (644, 55) is connected to ATQ, ONB, XNK
+Switch PZR at (581, 26) is connected to ATQ, WZU, LBT, EJC
+Switch LBL at (678, 94) is connected to FFP
+Switch EJC at (617, 49) is connected to ATQ, XNK, BUH, GWP, PZR
+Switch ONB at (633, 44) is connected to ATQ, OAN, XNK
+Switch FFP at (672, 79) is connected to XNK, BUH, LBL
+Switch WEE at (202, 984) is connected to JAD, YHG, HXJ
+Switch YHG at (209, 996) is connected to JAD, WEE
+Switch GDT at (248, 935) is connected to FQB, IVK, FIQ, JTG, ZDQ
+Switch HXJ at (209, 974) is connected to SJW, IVK, TUA, JTG, AYH, WEE
+Switch FQB at (286, 977) is connected to GDT, SJW, JKO, JTG, PZX, ZDQ, EKE
+Switch TUA at (221, 950) is connected to HXJ, AYH, JTG
+Switch IVK at (202, 933) is connected to FIQ, HXJ, GDT, KUA, MTX, JAD
+Switch KUA at (231, 943) is connected to IVK, AYH
+Switch SJW at (228, 999) is connected to JTG, HXJ, FQB
+Switch AYH at (214, 941) is connected to TUA, HXJ, KUA

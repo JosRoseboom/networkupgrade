@@ -1,0 +1,58 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="AutoCloseableResource" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="METHOD_MATCHER_CONFIG" value="java.util.Formatter,format,java.io.Writer,append,com.google.common.base.Preconditions,checkNotNull,org.hibernate.Session,close,java.io.PrintWriter,printf,java.io.PrintStream,printf,org.mockito.MockitoAnnotations,openMocks" />
+    </inspection_tool>
+    <inspection_tool class="CustomRegExpInspection" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="SSBasedInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <replaceConfiguration name="CustomDeprecations" problemDescriptor="This is deprecated" text="StringUtils.isEmpty($string$)" recursive="false" caseInsensitive="false" type="JAVA" pattern_context="default" reformatAccordingToStyle="false" shortenFQN="true" replacement="!StringUtils.hasLength($string$)">
+        <constraint name="__context__" nameOfExprType="StringUtils=org\.springframework\.util\.StringUtils" within="" contains="" />
+        <constraint name="string" nameOfExprType="String" exprTypeWithinHierarchy="true" within="" contains="" />
+      </replaceConfiguration>
+      <replaceConfiguration name="GuavaDeprecation" uuid="191bf3d9-618d-34fe-b5a9-d354ed2b7aa0" description="As the javadoc of this method indicates, this method unnecessary since Java 7 and should be treated as deprecated" suppressId="GuavaDeprecation" problemDescriptor="Deprecated since Java 7" text="Lists.newArrayList()" recursive="false" caseInsensitive="false" type="JAVA" pattern_context="default" reformatAccordingToStyle="false" shortenFQN="false" replacement="new ArrayList&lt;&gt;()">
+        <constraint name="__context__" within="" contains="" />
+      </replaceConfiguration>
+      <replaceConfiguration name="GuavaDeprecation" uuid="191bf3d9-618d-34fe-b5a9-d354ed2b7aa0" text="Sets.newHashSet()" recursive="false" caseInsensitive="false" type="JAVA" pattern_context="default" reformatAccordingToStyle="false" shortenFQN="false" replacement="new HashSet&lt;&gt;()">
+        <constraint name="__context__" within="" contains="" />
+      </replaceConfiguration>
+      <replaceConfiguration name="GuavaDeprecation" uuid="191bf3d9-618d-34fe-b5a9-d354ed2b7aa0" text="Sets.newTreeSet()" recursive="false" caseInsensitive="false" type="JAVA" pattern_context="default" reformatAccordingToStyle="false" shortenFQN="false" replacement="new TreeSet&lt;&gt;()">
+        <constraint name="__context__" within="" contains="" />
+      </replaceConfiguration>
+      <replaceConfiguration name="GuavaDeprecation" uuid="191bf3d9-618d-34fe-b5a9-d354ed2b7aa0" text="Maps.newHashMap()" recursive="false" caseInsensitive="false" type="JAVA" pattern_context="default" reformatAccordingToStyle="false" shortenFQN="false" replacement="new HashMap&lt;&gt;()">
+        <constraint name="__context__" within="" contains="" />
+      </replaceConfiguration>
+      <replaceConfiguration name="GuavaDeprecation" uuid="191bf3d9-618d-34fe-b5a9-d354ed2b7aa0" text="Maps.newTreeMap()" recursive="false" caseInsensitive="false" type="JAVA" pattern_context="default" reformatAccordingToStyle="false" shortenFQN="false" replacement="new TreeMap&lt;&gt;()">
+        <constraint name="__context__" within="" contains="" />
+      </replaceConfiguration>
+      <replaceConfiguration name="GuavaDeprecation" uuid="191bf3d9-618d-34fe-b5a9-d354ed2b7aa0" text="Lists.newLinkedList()" recursive="false" caseInsensitive="false" type="JAVA" pattern_context="default" reformatAccordingToStyle="false" shortenFQN="false" replacement="new LinkedList&lt;&gt;()">
+        <constraint name="__context__" within="" contains="" />
+      </replaceConfiguration>
+      <replaceConfiguration name="GuavaDeprecation" uuid="191bf3d9-618d-34fe-b5a9-d354ed2b7aa0" text="Maps.newHashMap($map$)" recursive="false" caseInsensitive="false" type="JAVA" pattern_context="default" reformatAccordingToStyle="false" shortenFQN="false" replacement="new HashMap&lt;&gt;($map$)">
+        <constraint name="__context__" within="" contains="" />
+        <constraint name="map" nameOfExprType="Map" exprTypeWithinHierarchy="true" within="" contains="" />
+      </replaceConfiguration>
+      <replaceConfiguration name="GuavaDeprecation" uuid="191bf3d9-618d-34fe-b5a9-d354ed2b7aa0" text="Lists.newArrayList($collection$)" recursive="false" caseInsensitive="false" type="JAVA" pattern_context="default" reformatAccordingToStyle="false" shortenFQN="false" replacement="new ArrayList&lt;&gt;($collection$)">
+        <constraint name="__context__" within="" contains="" />
+        <constraint name="collection" nameOfExprType="Collection" exprTypeWithinHierarchy="true" within="" contains="" />
+      </replaceConfiguration>
+      <replaceConfiguration name="GuavaDeprecation" uuid="191bf3d9-618d-34fe-b5a9-d354ed2b7aa0" text="Sets.newTreeSet($collection$)" recursive="false" caseInsensitive="false" type="JAVA" pattern_context="default" reformatAccordingToStyle="false" shortenFQN="false" replacement="new TreeSet&lt;&gt;($collection$)">
+        <constraint name="__context__" within="" contains="" />
+        <constraint name="collection" nameOfExprType="Collection" exprTypeWithinHierarchy="true" within="" contains="" />
+      </replaceConfiguration>
+      <replaceConfiguration name="GuavaDeprecation" uuid="191bf3d9-618d-34fe-b5a9-d354ed2b7aa0" text="Sets.newHashSet($collection$)" recursive="false" caseInsensitive="false" type="JAVA" pattern_context="default" reformatAccordingToStyle="false" shortenFQN="false" replacement="new HashSet&lt;&gt;($collection$)">
+        <constraint name="__context__" within="" contains="" />
+        <constraint name="collection" nameOfExprType="Collection" exprTypeWithinHierarchy="true" within="" contains="" />
+      </replaceConfiguration>
+      <replaceConfiguration name="GuavaDeprecation" uuid="191bf3d9-618d-34fe-b5a9-d354ed2b7aa0" text="Lists.newLinkedList($collection$)" recursive="false" caseInsensitive="false" type="JAVA" pattern_context="default" reformatAccordingToStyle="false" shortenFQN="false" replacement="new LinkedList($collection$)">
+        <constraint name="__context__" within="" contains="" />
+        <constraint name="collection" nameOfExprType="Collection" exprTypeWithinHierarchy="true" within="" contains="" />
+      </replaceConfiguration>
+      <replaceConfiguration name="GuavaDeprecation" uuid="191bf3d9-618d-34fe-b5a9-d354ed2b7aa0" text="Sets.newTreeSet($comparator$)" recursive="false" caseInsensitive="false" type="JAVA" pattern_context="default" reformatAccordingToStyle="false" shortenFQN="false" replacement="new TreeSet&lt;&gt;($comparator$)">
+        <constraint name="__context__" within="" contains="" />
+        <constraint name="comparator" nameOfExprType="Comparator" exprTypeWithinHierarchy="true" within="" contains="" />
+      </replaceConfiguration>
+    </inspection_tool>
+    <inspection_tool class="TsLint" enabled="true" level="WARNING" enabled_by_default="true" />
+  </profile>
+</component>
