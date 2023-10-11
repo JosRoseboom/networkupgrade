@@ -5,11 +5,11 @@ import java.util.ArrayList;
 import java.util.Comparator;
 import java.util.List;
 
-public class KraskalMST {
+public class KruskalMST {
 	private final List<Edge> edges;
 	private final int nOfVertices;
 
-	public KraskalMST(List<Edge> edges, int nOfVertices){
+	public KruskalMST(List<Edge> edges, int nOfVertices){
 		this.edges = edges;
 		this.nOfVertices = nOfVertices;
 	}
@@ -37,7 +37,7 @@ public class KraskalMST {
 		GraphReader gr = new GraphReader(Path.of("/Users/josroseboom/EasingYou/puzzles/network/networkupgrade/src/main/resources/Puzzle_input.txt"));
 
 		final List<String> vertices = gr.getVertices();
-		List<Edge> mst = new KraskalMST(gr.getEdges(), vertices.size()).kruskal();
+		List<Edge> mst = new KruskalMST(gr.getEdges(), vertices.size()).kruskal();
 		int totalWeight = 0;
 		for (Edge edge : mst) {
 			System.out.println("From " + vertices.get(edge.src) + " to " + vertices.get(edge.dest) + " (cost: " + edge.weight + ")");
@@ -77,7 +77,7 @@ public class KraskalMST {
 		edges.add(new Edge(1, 3, 15));
 		edges.add(new Edge(2, 3, 4));
 
-		List<Edge> mst = new KraskalMST(edges, 4).kruskal();
+		List<Edge> mst = new KruskalMST(edges, 4).kruskal();
 		int totalWeight = 0;
 		for (Edge edge : mst) {
 			System.out.println("Src: " + edge.src + " Dest: " + edge.dest + " Weight: " + edge.weight);
